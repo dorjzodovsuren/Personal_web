@@ -2202,7 +2202,7 @@ hr {
     -webkit-animation: bar-fill-photoshop 2s ease-out;
 }
 .bar-fill-motivation {
-    width: 96%;
+    width: 90%;
     background-color: #FA5816;
     animation: bar-fill-photoshop 2s ease-out;
     -moz-animation: bar-fill-photoshop 2s ease-out;

@@ -2146,7 +2146,7 @@ hr {
 
 .bar-fill-developer {
     width: 90%;
-    background-color: #101010;
+    background-color: #4b8bbe;
     animation: bar-fill-developer 2s ease-out;
     -moz-animation: bar-fill-developer 2s ease-out;
     -webkit-animation: bar-fill-developer 2s ease-out;
@@ -2182,6 +2182,28 @@ hr {
 .bar-fill-photoshop {
     width: 95%;
     background-color: #101080;
+    animation: bar-fill-photoshop 2s ease-out;
+    -moz-animation: bar-fill-photoshop 2s ease-out;
+    -webkit-animation: bar-fill-photoshop 2s ease-out;
+}
+
+.bar-fill-listening {
+    width: 96%;
+    background-color: #FDD017;
+    animation: bar-fill-photoshop 2s ease-out;
+    -moz-animation: bar-fill-photoshop 2s ease-out;
+    -webkit-animation: bar-fill-photoshop 2s ease-out;
+}
+.bar-fill-empathy {
+    width: 96%;
+    background-color: #DB4E4E;
+    animation: bar-fill-photoshop 2s ease-out;
+    -moz-animation: bar-fill-photoshop 2s ease-out;
+    -webkit-animation: bar-fill-photoshop 2s ease-out;
+}
+.bar-fill-motivation {
+    width: 96%;
+    background-color: #FA5816;
     animation: bar-fill-photoshop 2s ease-out;
     -moz-animation: bar-fill-photoshop 2s ease-out;
     -webkit-animation: bar-fill-photoshop 2s ease-out;
